@@ -1,0 +1,17 @@
+{
+  "workflow": {
+    "auto": true,
+    "style": "minimalist",
+    "stack": {
+      "frontend": "Vue 3",
+      "language": "TypeScript",
+      "build": "Vite",
+      "styling": "Vanilla CSS"
+    }
+  },
+  "project": {
+    "name": "Kalkulator Inflasi",
+    "description": "Inflation calculator for Indonesian consumers",
+    "data_source": "User-provided JSON (1995-2025)"
+  }
+}
