@@ -1,7 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import InflationCalculator from './components/InflationCalculator.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <div id="center">
+    <InflationCalculator />
+  </div>
 </template>
